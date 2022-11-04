@@ -1,8 +1,8 @@
-# slidev-theme-slidev-mokkapps-theme
+# slidev-theme-mokkapps
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-slidev-mokkapps-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-slidev-mokkapps-theme)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-mokkapps?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-mokkapps)
 
-A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
+A theme for [Slidev](https://github.com/slidevjs/slidev).
 
 <!--
   Learn more about how to write a theme:
