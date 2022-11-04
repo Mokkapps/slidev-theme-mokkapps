@@ -1,0 +1,38 @@
+{
+  "name": "slidev-theme-mokkapps",
+  "version": "1.0.0",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=0.19.3"
+  },
+  "scripts": {
+    "build": "slidev build example.md",
+    "dev": "slidev example.md --open",
+    "export": "slidev export example.md",
+    "screenshot": "slidev export example.md --format png"
+  },
+  "dependencies": {
+    "@slidev/types": "^0.36.10"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.18",
+    "@iconify-json/uim": "^1.1.2",
+    "@slidev/cli": "^0.36.10"
+  },
+  "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "sans": "Open Sans",
+        "title": "Domine",
+        "mono": "Cascadia Code"
+      }
+    }
+  }
+}

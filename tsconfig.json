@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "outDir": "dist",
+    "jsx": "preserve",
+    "types": ["vite/client"]
+  },
+  "include": [
+    "components/**/*.vue",
+    "examples/**/*.*",
+    "layouts/**/*.vue",
+    "setup/*.ts",
+    "utils/*.js",
+    "windi.config.ts",
+    "utils/props.ts"
+  ]
+}
