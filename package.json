@@ -13,7 +13,8 @@
     "build": "slidev build example.md",
     "dev": "slidev example.md --open",
     "export": "slidev export example.md",
-    "screenshot": "slidev export example.md --format png"
+    "screenshot": "slidev export example.md --format png",
+    "screenshot:dark": "slidev export example.md --dark --format png"
   },
   "dependencies": {
     "@slidev/types": "^0.36.10"
@@ -21,7 +22,8 @@
   "devDependencies": {
     "@iconify-json/logos": "^1.1.18",
     "@iconify-json/uim": "^1.1.2",
-    "@slidev/cli": "^0.36.10"
+    "@slidev/cli": "^0.36.10",
+    "playwright-chromium": "^1.27.1"
   },
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {

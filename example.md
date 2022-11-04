@@ -5,7 +5,7 @@ favicon: mokkapps-logo.png
 layout: cover
 ---
 
-# Slidev Theme Starter
+# Mokkapps Slidev Theme
 
 Presentation slides for developers
 
