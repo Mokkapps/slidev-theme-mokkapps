@@ -4,7 +4,7 @@
       <img src="../assets/bg-cover.svg" alt="" />
     </div>
     <div
-      class="my-auto mx-auto flex flex-col items-center justify-center w-full z-2"
+      class="my-auto max-w-3xl mx-auto flex flex-col text-center items-center justify-center w-full z-2"
     >
       <slot />
     </div>

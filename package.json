@@ -1,6 +1,6 @@
 {
   "name": "slidev-theme-mokkapps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "slidev-theme",
     "slidev"
@@ -27,6 +27,7 @@
   },
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
+    "favicon": "https://mokkapps.de/favicon.ico",
     "colorSchema": "both",
     "highlighter": "shiki",
     "defaults": {
