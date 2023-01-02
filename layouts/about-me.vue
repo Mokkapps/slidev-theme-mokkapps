@@ -25,7 +25,7 @@
       </div>
       <figure class="flex justify-center w-1/2">
         <img
-          src="/avatar.png"
+          src="https://res.cloudinary.com/mokkapps/image/upload/v1670613615/website/profile-pic_copy_f2zwnt.png"
           class="bg-gray-400 rounded-full object-cover h-80 w-80 border border-8 border-secondary-400 z-10"
         />
       </figure>
