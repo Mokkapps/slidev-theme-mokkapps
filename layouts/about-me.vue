@@ -5,15 +5,15 @@
         <h1 class="text-6xl">Michael Hoffmann</h1>
         <span class="mt-4">Senior Frontend Developer</span>
         <ul>
-          <li>Freelancer with Focus on Vue.js <logos-vue /></li>
+          <li>Freelancer focused on Vue.js <logos-vue /></li>
           <li>+7 years of professional experience</li>
           <li>Munich, Germany 🇩🇪</li>
           <li>
-            Vue newsletter
+            Weekly <logos-vue /> newsletter:
             <a href="https://weekly-vue.news">weekly-vue.news</a>
           </li>
           <li>
-            Blog & Portfolio <a href="https://mokkapps.de">mokkapps.de</a>
+            Blog & Portfolio: <a href="https://mokkapps.de">mokkapps.de</a>
           </li>
           <li>
             Say hi at

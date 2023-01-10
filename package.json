@@ -1,6 +1,6 @@
 {
   "name": "slidev-theme-mokkapps",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "slidev-theme",
     "slidev"
@@ -17,20 +17,20 @@
     "screenshot:dark": "slidev export example.md --dark --format png"
   },
   "dependencies": {
-    "@slidev/types": "^0.36.10"
+    "@slidev/types": "^0.38.3"
   },
   "devDependencies": {
-    "@iconify-json/logos": "^1.1.18",
-    "@iconify-json/uim": "^1.1.2",
-    "@slidev/cli": "^0.36.10",
-    "playwright-chromium": "^1.27.1"
+    "@iconify-json/logos": "^1.1.22",
+    "@iconify-json/uim": "^1.1.3",
+    "@slidev/cli": "^0.38.3",
+    "playwright-chromium": "^1.29.2"
   },
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
-    "favicon": "https://mokkapps.de/favicon.ico",
     "colorSchema": "both",
     "highlighter": "shiki",
     "defaults": {
+      "favicon": "https://mokkapps.de/favicon.ico",
       "fonts": {
         "sans": "Open Sans",
         "title": "Domine",
