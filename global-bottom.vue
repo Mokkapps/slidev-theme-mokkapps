@@ -1,6 +1,12 @@
 <template>
   <footer class="absolute bottom-0 left-0 right-0 w-full">
-    <div class="flex justify-end w-full p-2">
+    <div
+      class="flex w-full p-2"
+      :class="{
+        'justify-start': $slidev.configs.globalBottomPosition === 'left',
+        'justify-end': !$slidev.configs.globalBottomPosition,
+      }"
+    >
       <div
         class="flex flex-col gap-2 bg-light-background dark:bg-dark-background bg-opacity-60 p-2 rounded-md"
       >
