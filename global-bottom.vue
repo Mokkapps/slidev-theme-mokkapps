@@ -13,7 +13,7 @@
         <span class="text-sm"><logos-twitter class="mr-1" />@mokkapps</span>
         <div class="flex items-center gap-2">
           <img
-            src="https://res.cloudinary.com/mokkapps/image/upload/v1655359470/website/icon_dt5qn1.png"
+            src="https://mokkapps.twic.pics/mokkapps.de/logo.png"
             class="w-3 h-3"
           />
           <span class="text-sm">mokkapps.de</span>
