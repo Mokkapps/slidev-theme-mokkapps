@@ -1,5 +1,5 @@
 <template>
-  <footer class="absolute bottom-0 left-0 right-0 w-full">
+  <footer class="absolute bottom-0 left-0 right-0 w-full z-9">
     <div
       class="flex w-full p-2"
       :class="{
