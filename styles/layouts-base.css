@@ -17,6 +17,15 @@
     @apply select-text;
   }
 
+  p > code {
+    @apply text-light-code-lang dark:text-dark-code-lang;
+    @apply bg-light-code-lang dark:bg-dark-code-lang;
+    padding: 0.25rem 0.5rem;
+    margin: 0;
+    font-size: 0.85em;
+    border-radius: 3px;
+  }
+
   h1 {
     font-family: "Domine";
     @apply text-4xl text-light-link dark:text-dark-link font-bold mb-4 -ml-[0.05em];

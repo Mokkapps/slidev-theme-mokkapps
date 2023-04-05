@@ -46,7 +46,7 @@ layout: section
 
 # Code
 
-Use code snippets and get the highlighting directly!
+Use code snippets and get the `highlighting` directly!
 
 ```ts
 interface User {

@@ -14,6 +14,8 @@ export default defineWindiSetup(() => ({
       "dark-background": "var(--darkBackground)",
       "light-link": "var(--lightLink)",
       "dark-link": "var(--darkLink)",
+      "light-code-lang": "var(--lightCodeLangTextBackground)",
+      "dark-code-lang": "var(--darkCodeLangTextBackground)",
     },
     textColor: {
       accent: "var(--accent)",
@@ -23,6 +25,8 @@ export default defineWindiSetup(() => ({
       "dark-background": "var(--darkBackground)",
       "light-link": "var(--lightLink)",
       "dark-link": "var(--darkLink)",
+      "light-code-lang": "var(--lightCodeLangTextText)",
+      "dark-code-lang": "var(--darkCodeLangTextText)",
     },
   },
   shortcuts: {},
