@@ -3,6 +3,7 @@ theme: ./
 title: Mokkapps Theme
 favicon: mokkapps-logo.png
 layout: cover
+lineNumbers: true
 ---
 
 # Mokkapps Slidev Theme

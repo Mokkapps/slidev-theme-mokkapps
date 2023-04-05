@@ -17,6 +17,10 @@
     @apply select-text;
   }
 
+  .line {
+    @apply text-[#C6C6C7];
+  }
+
   p > code {
     @apply text-light-code-lang dark:text-dark-code-lang;
     @apply bg-light-code-lang dark:bg-dark-code-lang;
