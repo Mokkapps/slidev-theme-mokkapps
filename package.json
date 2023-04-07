@@ -30,6 +30,7 @@
     "colorSchema": "both",
     "highlighter": "shiki",
     "defaults": {
+      "colorSchema": "light",
       "favicon": "https://mokkapps.de/favicon.ico",
       "fonts": {
         "sans": "Open Sans",
