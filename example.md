@@ -47,6 +47,8 @@ layout: section
 
 # Code
 
+Slidev works perfectly with code block
+
 Use code snippets and get the `highlighting` directly!
 
 ```ts
@@ -86,6 +88,10 @@ image: 'https://source.unsplash.com/collection/94734566/1920x1080'
 # Image Right
 
 Here can be any text
+
+- Test 1
+- Test 2
+- Test 3
 
 ---
 layout: iframe-right
